@@ -1,3 +1,1 @@
-2024/05/28-19:03:01.594 4880 Log #9: 0 ops saved to Table #10 OK
-2024/05/28-19:03:01.594 4880 Archiving C:/Users/Rodri/AppData/Local/FoundryVTT/Data/worlds/oparch/data/drawings/000009.log: OK
-2024/05/28-19:03:01.612 4880 **** Repaired leveldb C:/Users/Rodri/AppData/Local/FoundryVTT/Data/worlds/oparch/data/drawings; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2024/05/28-19:03:01.635 4880 Delete type=3 #1
