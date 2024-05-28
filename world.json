@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.2",
   "title": "[Base] Ordem Paranormal",
   "id": "oparch",
   "system": "custom-system-builder",
@@ -14,7 +14,7 @@
   "download": "https://github.com/oDrickoo/oparch/archive/refs/heads/main.zip",
   "background": "worlds/oparch/Display_02.webp",
   "description": "<p><span style=\"font-family:'MS Gothic'\">O paranormal não vem para nossa realidade de maneira fácil. Ou, pelo menos, as coisas deveriam ser assim.</span></p><p><span style=\"font-family:'MS Gothic'\">O mundo em que vivemos não é o único. O universo que habitamos - a Realidade - é protegido por uma barreira invisível denominada <strong>Membrana</strong>. Além dela, existe um lugar de insanidade e medo, habitada por forças malignas. Esta dimensão é conhecida apenas como <strong>Outro Lado</strong>.</span></p><p><span style=\"font-family:'MS Gothic'\">As Entidades do outro lado usam seus poderes para atravessar a membrana e aterrorizar as pessoas inocentes que vivem na realidade em completa ignorância.</span></p><p><span style=\"font-family:'MS Gothic'\">Pessoas como nós…</span></p><p><span style=\"font-family:'MS Gothic'\"><strong>Mas não como você.</strong></span></p><p><span style=\"font-family:'MS Gothic'\">Você decidiu lutar contra as entidades que se manifestam e invadem nosso mundo. Custe o que custar. É uma tarefa árdua, mas você não está sozinho!</span></p><p><span style=\"font-family:'MS Gothic'\">Uma ordem, criada para proteger a realidade está do seu lado.</span></p><p><span style=\"font-family:'MS Gothic'\">Você é um agente desta organização e essa é <strong>SUA</strong> história.</span></p><p></p><h2><span style=\"font-family:'Sigilos Do Outro Lado'\">Tudo comeca pelo sangue</span></h2><h2><span style=\"font-family:'Sigilos Do Outro Lado'\">Todas as coisas precisam de um fim</span></h2><h2><span style=\"font-family:'Sigilos Do Outro Lado'\">Saber tudo e perder tudo</span></h2><h2><span style=\"font-family:'Sigilos Do Outro Lado'\">O caos e inevitavel</span></h2><h2><span style=\"font-family:'Sigilos Do Outro Lado'\">O medo e infinito</span></h2>",
-  "lastPlayed": "Tue May 28 2024 20:11:10 GMT-0300 (Horário Padrão de Brasília)",
+  "lastPlayed": "Tue May 28 2024 20:12:51 GMT-0300 (Horário Padrão de Brasília)",
   "playtime": 2575,
   "safeMode": false,
   "joinTheme": "default"

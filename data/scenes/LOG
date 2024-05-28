@@ -1,24 +1,8 @@
-2024/05/28-19:29:30.421 30b8 Recovering log #12
-2024/05/28-19:29:30.421 30b8 Level-0 table #14: started
-2024/05/28-19:29:30.435 30b8 Level-0 table #14: 1670 bytes OK
-2024/05/28-19:29:30.439 30b8 Delete type=0 #12
-2024/05/28-19:29:30.440 30b8 Delete type=3 #10
-2024/05/28-20:11:10.949 d88 Level-0 table #17: started
-2024/05/28-20:11:10.949 d88 Level-0 table #17: 0 bytes OK
-2024/05/28-20:11:10.951 d88 Delete type=0 #15
-2024/05/28-20:11:11.002 d88 Manual compaction at level-0 from '!scenes!Gtu9BmT8HjbSxKby' @ 72057594037927935 : 1 .. '!scenes.tokens!Gtu9BmT8HjbSxKby.kf7g5KhVuCL5O7x3' @ 0 : 0; will stop at '!scenes!pqOmYGz4PCipQvrS' @ 15 : 1
-2024/05/28-20:11:11.002 d88 Compacting 2@0 + 0@1 files
-2024/05/28-20:11:11.015 d88 Generated table #18@0: 3 keys, 1670 bytes
-2024/05/28-20:11:11.016 d88 Compacted 2@0 + 0@1 files => 1670 bytes
-2024/05/28-20:11:11.017 d88 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/05/28-20:11:11.017 d88 Delete type=2 #11
-2024/05/28-20:11:11.017 d88 Delete type=2 #14
-2024/05/28-20:11:11.040 d88 Manual compaction at level-0 from '!scenes!pqOmYGz4PCipQvrS' @ 15 : 1 .. '!scenes.tokens!Gtu9BmT8HjbSxKby.kf7g5KhVuCL5O7x3' @ 0 : 0; will stop at (end)
-2024/05/28-20:11:11.091 d88 Manual compaction at level-1 from '!scenes!Gtu9BmT8HjbSxKby' @ 72057594037927935 : 1 .. '!scenes.tokens!Gtu9BmT8HjbSxKby.kf7g5KhVuCL5O7x3' @ 0 : 0; will stop at '!scenes!pqOmYGz4PCipQvrS' @ 19 : 1
-2024/05/28-20:11:11.091 d88 Compacting 1@1 + 1@2 files
-2024/05/28-20:11:11.100 d88 Generated table #19@1: 10 keys, 4929 bytes
-2024/05/28-20:11:11.100 d88 Compacted 1@1 + 1@2 files => 4929 bytes
-2024/05/28-20:11:11.102 d88 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/05/28-20:11:11.102 d88 Delete type=2 #5
-2024/05/28-20:11:11.103 d88 Delete type=2 #18
-2024/05/28-20:11:11.127 d88 Manual compaction at level-1 from '!scenes!pqOmYGz4PCipQvrS' @ 19 : 1 .. '!scenes.tokens!Gtu9BmT8HjbSxKby.kf7g5KhVuCL5O7x3' @ 0 : 0; will stop at (end)
+2024/05/28-20:12:48.308 30b8 Recovering log #22
+2024/05/28-20:12:48.314 30b8 Delete type=0 #22
+2024/05/28-20:12:48.315 30b8 Delete type=3 #20
+2024/05/28-20:12:51.321 d88 Level-0 table #27: started
+2024/05/28-20:12:51.321 d88 Level-0 table #27: 0 bytes OK
+2024/05/28-20:12:51.323 d88 Delete type=0 #25
+2024/05/28-20:12:51.325 d88 Manual compaction at level-0 from '!scenes!Gtu9BmT8HjbSxKby' @ 72057594037927935 : 1 .. '!scenes.tokens!Gtu9BmT8HjbSxKby.kf7g5KhVuCL5O7x3' @ 0 : 0; will stop at (end)
+2024/05/28-20:12:51.325 d88 Manual compaction at level-1 from '!scenes!Gtu9BmT8HjbSxKby' @ 72057594037927935 : 1 .. '!scenes.tokens!Gtu9BmT8HjbSxKby.kf7g5KhVuCL5O7x3' @ 0 : 0; will stop at (end)

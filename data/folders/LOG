@@ -1,22 +1,8 @@
-2024/05/28-19:29:30.252 30b8 Recovering log #12
-2024/05/28-19:29:30.257 30b8 Delete type=0 #12
-2024/05/28-19:29:30.258 30b8 Delete type=3 #10
-2024/05/28-20:11:10.734 d88 Level-0 table #16: started
-2024/05/28-20:11:10.747 d88 Level-0 table #16: 226 bytes OK
-2024/05/28-20:11:10.749 d88 Delete type=0 #14
-2024/05/28-20:11:10.750 d88 Manual compaction at level-0 from '!folders!134TifuCcXWdzqpA' @ 72057594037927935 : 1 .. '!folders!zd44vEJ6Jp2pmQk1' @ 0 : 0; will stop at '!folders!qHdJaFTSw3ydCzaC' @ 90 : 0
-2024/05/28-20:11:10.750 d88 Compacting 2@0 + 0@1 files
-2024/05/28-20:11:10.763 d88 Generated table #17@0: 6 keys, 686 bytes
-2024/05/28-20:11:10.763 d88 Compacted 2@0 + 0@1 files => 686 bytes
-2024/05/28-20:11:10.764 d88 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/05/28-20:11:10.765 d88 Delete type=2 #11
-2024/05/28-20:11:10.765 d88 Delete type=2 #16
-2024/05/28-20:11:10.774 d88 Manual compaction at level-0 from '!folders!qHdJaFTSw3ydCzaC' @ 90 : 0 .. '!folders!zd44vEJ6Jp2pmQk1' @ 0 : 0; will stop at (end)
-2024/05/28-20:11:10.777 d88 Manual compaction at level-1 from '!folders!134TifuCcXWdzqpA' @ 72057594037927935 : 1 .. '!folders!zd44vEJ6Jp2pmQk1' @ 0 : 0; will stop at '!folders!qHdJaFTSw3ydCzaC' @ 90 : 0
-2024/05/28-20:11:10.777 d88 Compacting 1@1 + 1@2 files
-2024/05/28-20:11:10.781 d88 Generated table #18@1: 86 keys, 9703 bytes
-2024/05/28-20:11:10.781 d88 Compacted 1@1 + 1@2 files => 9703 bytes
-2024/05/28-20:11:10.782 d88 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/05/28-20:11:10.783 d88 Delete type=2 #5
-2024/05/28-20:11:10.783 d88 Delete type=2 #17
-2024/05/28-20:11:10.844 d88 Manual compaction at level-1 from '!folders!qHdJaFTSw3ydCzaC' @ 90 : 0 .. '!folders!zd44vEJ6Jp2pmQk1' @ 0 : 0; will stop at (end)
+2024/05/28-20:12:48.214 30b8 Recovering log #21
+2024/05/28-20:12:48.219 30b8 Delete type=0 #21
+2024/05/28-20:12:48.220 30b8 Delete type=3 #19
+2024/05/28-20:12:51.312 d88 Level-0 table #26: started
+2024/05/28-20:12:51.312 d88 Level-0 table #26: 0 bytes OK
+2024/05/28-20:12:51.313 d88 Delete type=0 #24
+2024/05/28-20:12:51.317 d88 Manual compaction at level-0 from '!folders!134TifuCcXWdzqpA' @ 72057594037927935 : 1 .. '!folders!zd44vEJ6Jp2pmQk1' @ 0 : 0; will stop at (end)
+2024/05/28-20:12:51.317 d88 Manual compaction at level-1 from '!folders!134TifuCcXWdzqpA' @ 72057594037927935 : 1 .. '!folders!zd44vEJ6Jp2pmQk1' @ 0 : 0; will stop at (end)

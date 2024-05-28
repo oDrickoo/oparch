@@ -1,25 +1,8 @@
-2024/05/28-19:29:30.477 35ac Recovering log #12
-2024/05/28-19:29:30.478 35ac Level-0 table #14: started
-2024/05/28-19:29:30.493 35ac Level-0 table #14: 4032 bytes OK
-2024/05/28-19:29:30.497 35ac Delete type=0 #12
-2024/05/28-19:29:30.498 35ac Delete type=3 #10
-2024/05/28-20:11:10.995 d88 Level-0 table #17: started
-2024/05/28-20:11:11.000 d88 Level-0 table #17: 47221 bytes OK
-2024/05/28-20:11:11.001 d88 Delete type=0 #15
-2024/05/28-20:11:11.018 d88 Manual compaction at level-0 from '!users!dcnjnNZVQ7CNe9Yq' @ 72057594037927935 : 1 .. '!users!dcnjnNZVQ7CNe9Yq' @ 0 : 0; will stop at '!users!dcnjnNZVQ7CNe9Yq' @ 6 : 1
-2024/05/28-20:11:11.018 d88 Compacting 3@0 + 0@1 files
-2024/05/28-20:11:11.031 d88 Generated table #18@0: 1 keys, 4072 bytes
-2024/05/28-20:11:11.031 d88 Compacted 3@0 + 0@1 files => 4072 bytes
-2024/05/28-20:11:11.032 d88 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/05/28-20:11:11.033 d88 Delete type=2 #11
-2024/05/28-20:11:11.033 d88 Delete type=2 #14
-2024/05/28-20:11:11.033 d88 Delete type=2 #17
-2024/05/28-20:11:11.091 d88 Manual compaction at level-0 from '!users!dcnjnNZVQ7CNe9Yq' @ 6 : 1 .. '!users!dcnjnNZVQ7CNe9Yq' @ 0 : 0; will stop at (end)
-2024/05/28-20:11:11.104 d88 Manual compaction at level-1 from '!users!dcnjnNZVQ7CNe9Yq' @ 72057594037927935 : 1 .. '!users!dcnjnNZVQ7CNe9Yq' @ 0 : 0; will stop at '!users!dcnjnNZVQ7CNe9Yq' @ 19 : 1
-2024/05/28-20:11:11.104 d88 Compacting 1@1 + 1@2 files
-2024/05/28-20:11:11.124 d88 Generated table #19@1: 1 keys, 4072 bytes
-2024/05/28-20:11:11.124 d88 Compacted 1@1 + 1@2 files => 4072 bytes
-2024/05/28-20:11:11.125 d88 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/05/28-20:11:11.126 d88 Delete type=2 #5
-2024/05/28-20:11:11.127 d88 Delete type=2 #18
-2024/05/28-20:11:11.127 d88 Manual compaction at level-1 from '!users!dcnjnNZVQ7CNe9Yq' @ 19 : 1 .. '!users!dcnjnNZVQ7CNe9Yq' @ 0 : 0; will stop at (end)
+2024/05/28-20:12:48.343 524 Recovering log #22
+2024/05/28-20:12:48.350 524 Delete type=0 #22
+2024/05/28-20:12:48.350 524 Delete type=3 #20
+2024/05/28-20:12:51.330 d88 Level-0 table #27: started
+2024/05/28-20:12:51.331 d88 Level-0 table #27: 0 bytes OK
+2024/05/28-20:12:51.332 d88 Delete type=0 #25
+2024/05/28-20:12:51.348 d88 Manual compaction at level-0 from '!users!dcnjnNZVQ7CNe9Yq' @ 72057594037927935 : 1 .. '!users!dcnjnNZVQ7CNe9Yq' @ 0 : 0; will stop at (end)
+2024/05/28-20:12:51.348 d88 Manual compaction at level-1 from '!users!dcnjnNZVQ7CNe9Yq' @ 72057594037927935 : 1 .. '!users!dcnjnNZVQ7CNe9Yq' @ 0 : 0; will stop at (end)
